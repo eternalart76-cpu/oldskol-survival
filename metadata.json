@@ -1,0 +1,9 @@
+{
+  "name": "Change:Old skol survival",
+  "description": "A comprehensive peer-support resource for ex-convicts and recovering addicts to build a better life through AI-powered guidance, financial tools, community maps, and visual creativity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
